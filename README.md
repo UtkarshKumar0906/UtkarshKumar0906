@@ -1,5 +1,12 @@
 <img align= "right" src ="https://komarev.com/ghpvc/?username=UtkarshKumar0906">
-### Hi there 👋
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Utkarsh!;&center=true&size=30">
+  </a>
+</h1>
+
+<br>
 
 <!--
 **UtkarshKumar0906/UtkarshKumar0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
