@@ -12,22 +12,22 @@
   - Full-stack web development <br>
   - Machine Learning and AI<br>
 <br> 
-💻 Tech Stack:
-  - Languages: Python, JavaScript, HTML, CSS, php, JAVA, C, Rust
-  - Frameworks: React, Flask, Selenium, etc.
-  - Databases: MySQL
-  - Tools: Git, Github Actions
-  - Machine Learning: TensorFlow, PyTorch, scikit-learn
+💻 Tech Stack: <br><br>
+  - Languages: Python, JavaScript, HTML, CSS, php, JAVA, C, Rust<br>
+  - Frameworks: React, Flask, Selenium, etc.<br>
+  - Databases: MySQL<br>
+  - Tools: Git, Github Actions<br>
+  - Machine Learning: TensorFlow, PyTorch, scikit-learn<br><br>
 
-🌐 Check out my latest projects and contributions below! Always eager to collaborate and learn from the amazing GitHub community.
+🌐 Check out my latest projects and contributions below! Always eager to collaborate and learn from the amazing GitHub community.<br><br>
 
-📫 Let's connect:
-  - LinkedIn: https://www.linkedin.com/in/iuxkarsh/
-  - Instagram: https://www.instagram.com/i.uxkarsh/
+📫 Let's connect:<br><br>
+  - LinkedIn: https://www.linkedin.com/in/iuxkarsh/<br>
+  - Instagram: https://www.instagram.com/i.uxkarsh/<br>
 
-🔍 Exploring the intersection of code and creativity to build meaningful solutions. Open to new opportunities and challenges!
+🔍 Exploring the intersection of code and creativity to build meaningful solutions. Open to new opportunities and challenges!<br>
 
-# Code Is Poetry
+<h1 align = center> Code Is Poetry </h1>
 </div>
 
   <!-- stats -->
