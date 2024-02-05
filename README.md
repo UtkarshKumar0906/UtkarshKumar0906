@@ -7,7 +7,28 @@
 </h1>
 
 <br>
+<div>
+  🚀 Currently exploring the realms of:
+  - Full-stack web development
+  - Machine Learning and AI
 
+💻 Tech Stack:
+  - Languages: Python, JavaScript, HTML, CSS, php, JAVA, C
+  - Frameworks: React, Flask, Selenium, etc.
+  - Databases: MySQL
+  - Tools: Git, Github Actions
+  - Machine Learning: TensorFlow, PyTorch, scikit-learn
+
+🌐 Check out my latest projects and contributions below! Always eager to collaborate and learn from the amazing GitHub community.
+
+📫 Let's connect:
+  - LinkedIn: https://www.linkedin.com/in/iuxkarsh/
+  - Instagram: https://www.instagram.com/i.uxkarsh/
+
+🔍 Exploring the intersection of code and creativity to build meaningful solutions. Open to new opportunities and challenges!
+
+# Code Is Poetry
+</div>
 
   <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
