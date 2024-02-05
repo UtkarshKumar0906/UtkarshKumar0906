@@ -13,7 +13,7 @@
   - Machine Learning and AI
 
 💻 Tech Stack:
-  - Languages: Python, JavaScript, HTML, CSS, php, JAVA, C
+  - Languages: Python, JavaScript, HTML, CSS, php, JAVA, C, Rust
   - Frameworks: React, Flask, Selenium, etc.
   - Databases: MySQL
   - Tools: Git, Github Actions
