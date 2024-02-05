@@ -8,9 +8,9 @@
 
 <br>
 <div>
-  🚀 Currently exploring the realms of:
-  - Full-stack web development
-  - Machine Learning and AI
+  🚀 Currently exploring the realms of:<br>
+  - Full-stack web development <br>
+  - Machine Learning and AI<br>
 
 💻 Tech Stack:
   - Languages: Python, JavaScript, HTML, CSS, php, JAVA, C, Rust
