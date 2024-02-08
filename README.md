@@ -19,7 +19,7 @@
 
 🌐 Check out my latest projects and contributions below! Always eager to collaborate and learn from the amazing GitHub community.<br><br>
 
-📫 Let's connect:<br><br>
+📫 How to reach me: <br><br>
 <p align = "center"> 
   <a href="https://www.linkedin.com/in/iuxkarsh">
   <img alt="Utkarsh's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
@@ -38,6 +38,10 @@
 <h1 align = center> Code Is Poetry </h1>
 </div>
 
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yfu3kerrhww8crxmkvsik026x">
+</p>
+
   <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
@@ -51,6 +55,7 @@
         <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyy&theme=default&border=61dafb" alt="Utkarsh's streak stats" />
       </picture>
     </a>
+    
 <!-- github stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <picture>
