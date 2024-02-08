@@ -76,6 +76,12 @@
   <br />
   <br />
 
+  ## 🏆GitHub Trophies
+  <p align = "Center">
+<img src ="https://github-trophies.vercel.app/?username=Utkarsh0906&theme=radical&no-frame=false&no-bg=false&margin-w=4"/) 
+  </p>
+
+
 <!--
 **UtkarshKumar0906/UtkarshKumar0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
