@@ -22,8 +22,16 @@
 🌐 Check out my latest projects and contributions below! Always eager to collaborate and learn from the amazing GitHub community.<br><br>
 
 📫 Let's connect:<br><br>
-  - LinkedIn: https://www.linkedin.com/in/iuxkarsh/<br>
-  - Instagram: https://www.instagram.com/i.uxkarsh/<br>
+  <a href="https://www.linkedin.com/in/iuxkarsh">
+  <img alt="Utkarsh's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/yfu3kerrhww8crxmkvsik026x">
+  <img alt="Utkarsh's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<a href = "https://instagram.com/iuxkarsh">
+<img alt = "Utkarsh's Instagram" width = "50px" src = ""/>
+</a>
+<br>
 
 🔍 Exploring the intersection of code and creativity to build meaningful solutions. Open to new opportunities and challenges!<br>
 
