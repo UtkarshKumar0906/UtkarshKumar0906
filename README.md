@@ -29,7 +29,7 @@
   <img alt="Utkarsh's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <a href = "https://instagram.com/iuxkarsh">
-<img alt = "Utkarsh's Instagram" width = "50px" src = ""/>
+<img alt = "Utkarsh's Instagram" width = "50px" src = "https://github.com/UtkarshKumar0906/UtkarshKumar0906/assets/77536615/18ed27f4-8b5d-4e18-9f7e-1b6ccbade470"/>
 </a>
 <br>
 
