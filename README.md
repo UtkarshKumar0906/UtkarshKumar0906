@@ -20,6 +20,7 @@
 🌐 Check out my latest projects and contributions below! Always eager to collaborate and learn from the amazing GitHub community.<br><br>
 
 📫 Let's connect:<br><br>
+<p align = "center"> 
   <a href="https://www.linkedin.com/in/iuxkarsh">
   <img alt="Utkarsh's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
@@ -29,6 +30,7 @@
 <a href = "https://instagram.com/iuxkarsh">
 <img alt = "Utkarsh's Instagram" width = "50px" src = "https://github.com/UtkarshKumar0906/UtkarshKumar0906/assets/77536615/18ed27f4-8b5d-4e18-9f7e-1b6ccbade470"/>
 </a>
+</p>
 <br>
 
 🔍 Exploring the intersection of code and creativity to build meaningful solutions. Open to new opportunities and challenges!<br>
